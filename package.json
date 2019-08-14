@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/staypaid/friend-finder.git"
+    "url": "git+https://github.com/staypaid/best-friend-finder.git"
   },
   "keywords": [
     "friend-finder",
@@ -29,7 +29,7 @@
   "author": "staypaid",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/staypaid/friend-finder/issues"
+    "url": "https://github.com/staypaid/best-friend-finder/issues"
   },
-  "homepage": "https://github.com/staypaid/friend-finder#readme"
+  "homepage": "https://github.com/staypaid/best-friend-finder#readme"
 }
